@@ -1,4 +1,4 @@
-"""Reads files"""
+"""reader reads files"""
 
 class Reader(object):
     """Opens, reads, and closes files"""
