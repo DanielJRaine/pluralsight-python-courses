@@ -1,3 +1,6 @@
-u// Place your settings in this file to overwrite default and user settings.
+// Place your settings in this file to overwrite the default settings
 {
+    "python.linting.pep8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "terminal.integrated.shell.windows": "C:\\Windows\\sysnative\\bash.exe"
 }
